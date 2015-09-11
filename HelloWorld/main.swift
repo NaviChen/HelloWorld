@@ -8,5 +8,8 @@
 
 import Foundation
 
-println("Hello, World!")
+println("Hello, World!");
 
+var x: Int;
+x = 100;
+println(x);
